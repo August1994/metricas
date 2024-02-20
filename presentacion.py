@@ -1,0 +1,5 @@
+print("Tarea de Metricas en GitHub")
+print("*"*30)
+print("Autor: Augusto Daniel Martinez Gonzalez")
+print("Fecha: 19/02/2024")
+print("*"*30)
