@@ -4,7 +4,7 @@
 # t = d/v
 import os
 os.system('clear||cls')
-print("Calcular la velocidad de un objeto")
+print("Calcular la velocidad, distancia y tiempo de un objeto")
 print("*"*30)
 print("1. Calcular la velocidad")
 print("2. Calcular la distancia")
